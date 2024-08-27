@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ahoj
+=======
+ahoj engetaci
+>>>>>>> 31b0d40f353574e07b52e7aa315066cc29781685
